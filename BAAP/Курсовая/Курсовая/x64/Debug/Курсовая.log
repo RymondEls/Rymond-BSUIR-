@@ -1,0 +1,4 @@
+﻿  Курсовая.cpp
+D:\BSUIR EPTA NA\labs\OAIP\Курсовая\Курсовая\Курсовая.cpp(158,1): warning C4715: BinarySearch: значение возвращается не при всех путях выполнения
+D:\BSUIR EPTA NA\labs\OAIP\Курсовая\Курсовая\Курсовая.cpp(181,1): warning C4715: IndexAdjustment: значение возвращается не при всех путях выполнения
+  Курсовая.vcxproj -> D:\BSUIR EPTA NA\labs\OAIP\Курсовая\x64\Debug\Курсовая.exe
